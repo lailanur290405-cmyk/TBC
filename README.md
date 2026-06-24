@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk melakukan analisis data kejadian Tuberkulosis (Tuberc
 
 ## Dataset
 
-Dataset yang digunakan berisi informasi mengenai insiden Tuberkulosis pada berbagai negara dan tahun pengamatan.
+Dataset yang digunakan berisi informasi mengenai insiden Tuberkulosis pada berbagai negara dan tahun pengamatan, bersumber dari kaggle.
 
 Variabel yang digunakan:
 
@@ -41,7 +41,7 @@ Analisis dilakukan menggunakan bahasa pemrograman Python dengan beberapa tahapan
 
 ## Hasil yang Diharapkan
 
-Hasil analisis diharapkan dapat memberikan gambaran mengenai kondisi Tuberkulosis secara global maupun regional serta membantu memahami pola perkembangan penyakit dari waktu ke waktu.
+Hasil analisis diharapkan dapat memberikan gambaran mengenai kondisi Tuberkulosis secara global serta membantu memahami pola perkembangan penyakit dari waktu ke waktu.
 
 ## Penulis
 
